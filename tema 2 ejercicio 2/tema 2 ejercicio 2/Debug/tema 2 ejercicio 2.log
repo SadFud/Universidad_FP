@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\david\documents\visual studio 2015\projects\tema 2 ejercicio 2\tema 2 ejercicio 2\main.cpp(20): warning C4305: '=': truncation from 'double' to 'float'
+  tema 2 ejercicio 2.vcxproj -> C:\Users\DAVID\documents\visual studio 2015\Projects\tema 2 ejercicio 2\Debug\tema 2 ejercicio 2.exe
+  tema 2 ejercicio 2.vcxproj -> C:\Users\DAVID\documents\visual studio 2015\Projects\tema 2 ejercicio 2\Debug\tema 2 ejercicio 2.pdb (Partial PDB)
